@@ -1,0 +1,33 @@
+# Core FastAPI and async support
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Pydantic for data validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Google Gemini AI
+google-generativeai==0.3.2
+
+# Manim for animations
+manim==0.18.0
+
+# File handling and utilities
+aiofiles==23.2.1
+python-dotenv==1.0.0
+
+# Logging and monitoring
+loguru==0.7.2
+
+# HTTP client for external APIs
+httpx==0.25.2
+
+# Background task processing
+celery==5.3.4
+redis==5.0.1
+
+# Development and testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+requests==2.31.0
